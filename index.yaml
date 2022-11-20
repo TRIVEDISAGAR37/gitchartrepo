@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  thirdchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-20T18:48:19.096388-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 17e5beab7b42db30a5872e0e7ee12e5b87f4ba939b597628a1a0ed704fa5ab06
+    name: thirdchart
+    type: application
+    urls:
+    - thirdchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-20T18:48:19.094773-05:00"
